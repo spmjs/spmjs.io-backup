@@ -1,0 +1,14 @@
+{
+  "name": "spmjs.io-backup",
+  "version": "1.0.0",
+  "description": "Backup tool for spmjs.io.",
+  "main": "backup.js",
+  "dependencies": {
+    "shelljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "chencheng <sorrycc@gmail.com>",
+  "license": "MIT"
+}
